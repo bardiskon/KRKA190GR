@@ -1,0 +1,30 @@
+{
+  "id": "a7584601-c1ba-40f7-8f49-6683f257b25c",
+  "name": "KrKa Greece",
+  "publisher": "Diastasys",
+  "version": "19.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "dbc26d73-392f-4189-9009-b1fbf07ec493",
+      "publisher": "Real Consulting",
+      "name": "Greek Localization BC V16 GRBASE",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "19.0.0.0",
+  "application": "19.0.0.0",
+  "contextSensitiveHelpUrl": "https://KrKa.com/help/",
+  "runtime": "8.0",
+  "features": [
+    "TranslationFile",
+    "GenerateCaptions"
+  ]
+}

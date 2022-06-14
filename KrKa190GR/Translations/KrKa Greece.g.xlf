@@ -1,0 +1,694 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="KrKa Greece">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3688722197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Standard Texts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Standard Texts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3688722197 - Field 1637284436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Director</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Standard Texts - Field Director - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3688722197 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Standard Texts - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3688722197 - Field 3422943266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepared By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Standard Texts - Field Prepared By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3688722197 - Field 172932413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice Report Text 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Standard Texts - Field Sales Invoice Report Text 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3688722197 - Field 3830203092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice Report Text 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Standard Texts - Field Sales Invoice Report Text 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3688722197 - Field 3192506475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice Report Text 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Standard Texts - Field Sales Invoice Report Text 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3688722197 - Field 2554809858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice Report Text 4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Standard Texts - Field Sales Invoice Report Text 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3688722197 - Field 1917113241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice Report Text 5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Standard Texts - Field Sales Invoice Report Text 5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3688722197 - Field 1279416624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice Report Text 6</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Standard Texts - Field Sales Invoice Report Text 6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3688722197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Standard Texts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Report Standard Texts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 945103329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType AmountCaption_Control1103201179Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1226406835" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount After Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Amount_After_DiscountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1401689531" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount After Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Amount_After_DiscountCaption_Control1103201176Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3918111189" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Branch 1 Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType BranchAddress1</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3280414572" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Branch 2 Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType BranchAddress2</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2642717955" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Branch 3 Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType BranchAddress3</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 483471410" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Partner Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Business_Partner_DetailsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2212829955" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Partner Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Business_Partner_DetailsCaption_Control1103201142Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2180186744" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3728638521" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201038Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1639922440" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201044Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1134117472" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201055Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1075404176" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201109Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2183372834" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201112Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3336843095" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201144Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1420745528" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201145Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1863392235" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201162Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3830422024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201167Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1516207766" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201170Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 288562391" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201191Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 226619260" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201194Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2998544890" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201266Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 106794799" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201274Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3464209659" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201278Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2283461962" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201291Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2183492665" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201300Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3572111064" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201303Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 368564252" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201307Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 680232241" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201308Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2929445121" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201311Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3930945894" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201314Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 777222820" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201316Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3237765226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Caption_Control1103201318Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3260000627" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType CodeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3891693245" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType CodeCaption_Control1103201174Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 416706000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType CommentsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 916358888" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType CompanyInfo__Bank_Name____________CompanyInfo__Bank_Account_No__CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 817831222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3026349900" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType DescriptionCaption_Control1103201183Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2875067614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType DescriptionCaption_Control1103201275Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3406999958" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Discount_AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2774731965" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Discount_AmountCaption_Control1103201177Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 58671347" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Discount__CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2739651569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Discount__Caption_Control1103201178Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 481445982" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType DueDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 250968736" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType InvDiscountAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3038885027" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ISSUED</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType ISSUEDCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3077678206" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page : </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType PageNo</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1302573237" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType PaymentTermsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2694455927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>By remittance within %1 after the receipt of invoice.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType PaymentTermsLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3246368361" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType QuantityCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3031522657" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType QuantityCaption_Control1103201181Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2321575740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RECEIPT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType RECEIPTCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2216773013" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receive To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Receive_ToCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 45723723" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reg. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType RegNo</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 488193849" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship From</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Ship_FromCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3408952247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader_Invoicelbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2784233353" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum After Disc.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__Document_Amount_After_Discount_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 4186059322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__Document_Amount_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3876120658" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Final Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__Document_Amount_Inc__VAT_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3536018092" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum Other Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__Document_Charges_Amount_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2922224041" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum Other VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__Document_Charges_VAT_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 330128640" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__Document_Discount_Amount_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3475500008" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum Tax Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__Document_Tax_Amount_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3075468484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum Tax VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__Document_Tax_VAT_Amount_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2776062870" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__Document_VAT_Amount_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2212192033" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__New_Balance_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 41456512" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prev. Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__Old_Balance_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2830374835" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__VAT_Cat__1_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2106535806" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__VAT_Cat__1_net_Amount_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3619529563" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocumentHeader__VAT_Cat__1__VAT_Amount_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2537291111" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocument_Linelbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 726086602" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum After Disc. Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TempFooterDocument_SumLinelbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bailments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must set field Bailments Per Page at table Report Selections</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 578011608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader_AddressCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1856708409" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader_Address_Control1103201276CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3306776183" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader_NameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3790911576" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profession</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader_ProfessionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 562717220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profession</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader_Profession_Control1103201286CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 4202433352" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Document_No__CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 4011644485" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Document_No___Control1103201061CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 502453154" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Location_Address_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2306714594" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In Transit Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Location_Address__Control1103201190CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 4009546416" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__No__CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1195319795" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__No__Series_Description_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3769579888" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__No__Series_Description__Control1103201072CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 137579456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__No___Control1103201264CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1868149900" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Payment_Method_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 346688971" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Posting_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 238670577" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Posting_Date__Control1103201134CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 830801412" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Posting_Time_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3062714262" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Posting_Time__Control1103201138CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1466797303" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Ship_To_Address_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1420936632" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Ship_To_Address__Control1103201313CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2910139690" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Ship_To_Code_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 252786752" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Ship_To_Name_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1528367749" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Ship_To_Name__Control1103201315CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 60491175" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profession</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Ship_To_Profession_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3338117147" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Office</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Ship_To_Tax_Office_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2646882233" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Reg. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Ship_To_Vat_Registration_No__CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 460178836" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Office</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Tax_Office_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 498110610" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Office</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Tax_Office__Control1103201305CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 63315990" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Reason</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Transfer_Reason_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 4014966187" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Reason</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Transfer_Reason__Control1103201193CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 742828306" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Reg. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Vat_Registration_No__CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 3346440399" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Reg. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType TmpDocumentHeader__Vat_Registration_No___Control1103201298CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2446068092" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Unit_PriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1351824499" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType Unit_PriceCaption_Control1103201180Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1421459925" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType UOMCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 316680172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType UOMCaption_Control1103201182Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 2760006609" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Clause</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType VATClausesLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 526954361" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType VAT__CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - NamedType 1671465264" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - NamedType VAT__Caption_Control1103201175Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - Control 3117834186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - Control DocumentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - Control 4237283545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - Control DocumentType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1693997414 - Control 4237283545 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Sales Order,Sales Invoice,Sales Shipment,Sales Credit Memo,Sales Return Receipt,Purchase Order,Purchase Invoice,Purchase Receipt,Purchase Credit Memo,Purchase Return Shipment,Service Order,Service Invoice,Service Shipment,Service Credit Memo,Service Return Receipt,Transfer Order,Transfer Shipment,Transfer Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoices - Control DocumentType - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4144265336 - Field 2723933295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Address EN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CompanyInformationTableExt - Field Address EN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4144265336 - Field 188520312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>City EN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CompanyInformationTableExt - Field City EN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4144265336 - Field 3205990189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Country EN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CompanyInformationTableExt - Field Country EN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4144265336 - Field 1649339848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Name EN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CompanyInformationTableExt - Field Name EN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4144265336 - Field 3956312191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Profession EN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CompanyInformationTableExt - Field Profession EN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4144265336 - Field 3603272154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Tax Office EN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CompanyInformationTableExt - Field Tax Office EN - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
